@@ -17,6 +17,6 @@
 
 ## Team Gwachaepah
 
-|jkeum|inyang|ji-kim|soooh|yeslee|mseo|ylee|
-|:---|:---:|:---|:---:|:---|:---:|:---:|
+|[jkeum](https://github.com/JongeunKeum)|[inyang](https://github.com/Inju-Yang)|[ji-kim](https://github.com/deftones88)|[soooh](https://github.com/Elli-v)|[yeslee](https://github.com/yeslee-v)|[mseo](https://github.com/stopminbeom)|[ylee](https://github.com/3Cat-jaguar)|
+|:---|:---:|:---:|:---:|:---|:---:|:---:|
 |백엔드|프론트엔드|프론트엔드|프론트엔드|백엔드|백엔드|백엔드|
